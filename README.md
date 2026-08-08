@@ -92,6 +92,6 @@ I enjoy turning ideas into real web applications and learning something new ever
 
 ## 🤝 Let's Collaborate
 
-I'm always open to collaborating on open-source projects, web development ideas, and learning opportunities. Feel free to connect with me!
+I'm always open to collaborating on open-source projects, web development ideas, and learning opportunities. Feel free to connect with me !
 
 
